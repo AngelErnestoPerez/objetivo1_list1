@@ -11,6 +11,7 @@ public class ProdutoController {
 
         System.out.println("Teste github");
         System.out.println("Teste github 2");
+        System.out.println("Teste github 3");
 
         /*1
         Constrói instâncias da classe*/

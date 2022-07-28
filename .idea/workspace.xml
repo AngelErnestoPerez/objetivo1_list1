@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6ae7052-05a8-47c5-ace0-2e8324701923" name="Changes" comment="Teste do github">
+    <list default="true" id="e6ae7052-05a8-47c5-ace0-2e8324701923" name="Changes" comment="Teste do github 2">
       <change beforePath="$PROJECT_DIR$/src/controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/ProdutoController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +134,7 @@
       <workItem from="1658489147645" duration="33266000" />
       <workItem from="1658664846623" duration="26697000" />
       <workItem from="1658941011501" duration="639000" />
-      <workItem from="1659018914140" duration="205000" />
+      <workItem from="1659018914140" duration="249000" />
     </task>
     <task id="LOCAL-00001" summary="Teste do github">
       <created>1659019072097</created>
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659019072097</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Teste do github 2">
+      <created>1659019148244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659019148244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +169,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste do github" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste do github" />
+    <MESSAGE value="Teste do github 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste do github 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
