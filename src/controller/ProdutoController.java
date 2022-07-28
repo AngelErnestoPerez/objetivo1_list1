@@ -10,6 +10,7 @@ public class ProdutoController {
     public static void main(String[] args){
 
         System.out.println("Teste github");
+        System.out.println("Teste github 2");
 
         /*1
         Constrói instâncias da classe*/

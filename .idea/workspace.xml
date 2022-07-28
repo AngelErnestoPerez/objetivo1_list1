@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6ae7052-05a8-47c5-ace0-2e8324701923" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/ContaControllerObjetivo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/FuncionarioController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ContaObjetivo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Produto_Lista1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/CarroController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/CarroController.java" afterDir="false" />
+    <list default="true" id="e6ae7052-05a8-47c5-ace0-2e8324701923" name="Changes" comment="Teste do github">
       <change beforePath="$PROJECT_DIR$/src/controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/ProdutoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Produto.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,8 +134,16 @@
       <workItem from="1658489147645" duration="33266000" />
       <workItem from="1658664846623" duration="26697000" />
       <workItem from="1658941011501" duration="639000" />
-      <workItem from="1659018914140" duration="123000" />
+      <workItem from="1659018914140" duration="205000" />
     </task>
+    <task id="LOCAL-00001" summary="Teste do github">
+      <created>1659019072097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659019072097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +159,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teste do github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste do github" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
